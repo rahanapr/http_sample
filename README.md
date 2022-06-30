@@ -1,17 +1,19 @@
 # http_sample
+[Pub.dev - for adding packages](https://pub.dev/)
+<br>
+[Numbers API- for adding Number API](http://numbersapi.com/#42)
 
-A new Flutter project.
-
+## used dependencies in this project
+-  http: 0.13.4
+-  json_annotation: 4.5.0
+-  json_serializable: 6.2.0
+-  build_runner
+<br>
+ "# http_sample"  
+ 
+ 
 ## Getting Started
+<img align="left" src="Screenshot1.png" width=250>
+<img align="left" src="Screenshot2.png" width=250>
+<img align="left" src="Screenshot3.png" width=250>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# http_sample" 
